@@ -1,0 +1,1 @@
+**This project is a task manager that use react as frontend and nodejs as backend.**
